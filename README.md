@@ -1,2 +1,2 @@
 My First Project.
-This is sample git repository containing sample files.
+This is my sample git repository containing sample files.
